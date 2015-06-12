@@ -2,8 +2,9 @@
 
 List of egg dishes
 
-- Raw egg
-- Fried egg
 - Boiled egg
+- Fried egg
 - Omelette
+- Raw egg
 - Scrambled eggs
+- Steamed eggs

@@ -2,9 +2,12 @@
 
 List of egg dishes
 
+## Initiation
+- Raw egg
+
+## Derivation
 - Boiled egg
 - Fried egg
 - Omelette
-- Raw egg
 - Scrambled eggs
 - Steamed eggs

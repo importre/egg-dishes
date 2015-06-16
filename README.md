@@ -9,5 +9,6 @@ List of egg dishes
 - Fried egg
 - Omelette
 - Rolled up eggs
+- Soy sauce eggs
 - Scrambled eggs
 - Steamed eggs

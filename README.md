@@ -6,6 +6,7 @@ List of egg dishes
 
 ## Derivation
 - Boiled egg
+- Egg canapes
 - Fried egg
 - Omelette
 - Rolled up eggs
